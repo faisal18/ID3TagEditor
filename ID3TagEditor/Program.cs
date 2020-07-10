@@ -24,6 +24,7 @@ namespace ID3TagEditor
     public class ID3Tag
     {
 
+
         public static string URL0 = string.Empty;
         public static string URL1 = string.Empty;
 
